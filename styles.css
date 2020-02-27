@@ -1,0 +1,20 @@
+h1 {
+    font-size: 250%;
+    color: green;
+  }
+  
+  h2 {
+    font-size: 200%;
+    color: pink;
+  }
+  
+  p {
+    font-size: 100%;
+  }
+  body {
+    color: blue;
+  }
+  
+  h3 {
+    color: purple;
+  }
